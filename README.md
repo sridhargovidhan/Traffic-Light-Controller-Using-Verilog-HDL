@@ -96,6 +96,7 @@ endmodule
 ```
 
 Testbench for Traffic Light Controller
+```
 
 // traffic_light_controller_tb.v
 `timescale 1ns / 1ps
@@ -138,6 +139,7 @@ module traffic_light_controller_tb;
     end
 
 endmodule
+```
 
 OUTPUT:
 ![verilog](https://github.com/user-attachments/assets/16fc3d37-3ee4-449b-8d0f-d6ba8e44cc7d)
